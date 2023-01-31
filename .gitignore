@@ -16,6 +16,8 @@ sdist
 develop-eggs
 .installed.cfg
 
+# sim
+simulations
 # Installer logs
 pip-log.txt
 
