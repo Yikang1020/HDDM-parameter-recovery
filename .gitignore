@@ -19,7 +19,7 @@ develop-eggs
 
 # sim
 simulations
-temp
+temp/*.db
 
 # Installer logs
 pip-log.txt
