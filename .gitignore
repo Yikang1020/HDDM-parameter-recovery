@@ -2,6 +2,7 @@
 *.png
 *.dat
 *.svg
+*.csv
 
 # Packages
 *.egg
@@ -18,6 +19,11 @@ develop-eggs
 
 # sim
 simulations
+<<<<<<< HEAD
+temp/*.db
+
+=======
+>>>>>>> c94f218f485b7154c576c53a92be95c5e7bd319f
 # Installer logs
 pip-log.txt
 
