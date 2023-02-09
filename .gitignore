@@ -20,6 +20,12 @@ develop-eggs
 # sim
 simulations
 temp/*.db
+SFN2012
+
+
+
+
+
 
 # Installer logs
 pip-log.txt
