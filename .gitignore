@@ -21,7 +21,8 @@ develop-eggs
 simulations
 temp/*.db
 SFN2012
-
+*.db
+*_chain_*
 
 
 
