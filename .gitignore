@@ -23,6 +23,7 @@ temp/*.db
 SFN2012
 *.db
 *_chain_*
+scripts/*
 
 
 
