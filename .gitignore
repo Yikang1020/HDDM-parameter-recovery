@@ -19,11 +19,13 @@ develop-eggs
 *.csv
 # sim
 simulations
-temp/*.db
+scripts/*.db
+scripts/*.csv
+
 SFN2012
 *.db
 *_chain_*
-scripts/*
+
 
 
 
